@@ -1,7 +1,7 @@
 {
     "private": false,
     "type": "module",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "name": "node-scope",
     "description": "For working with environmens on NodeJS (optionally with PM2)",
     "author": "geekhunger <hello@geekhunger.com>",
@@ -18,7 +18,8 @@
     "keywords": [
         "environment",
         "env",
-        "node env",
+        "node",
+        "node_env",
         "nodejs",
         "scope",
         "realm",
