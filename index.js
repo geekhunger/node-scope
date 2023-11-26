@@ -2,8 +2,7 @@
 
 import process from "process"
 import {cpus, hostname} from "os"
-import Type from "type-approve"
-const {assert, type} = Type
+import {assert, type} from "type-approve"
 
 const CMD_ARGS = process.argv.slice(2)
 const ENV_RAW = CMD_ARGS[0] || process.env.NODE_ENV || ""
