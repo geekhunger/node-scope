@@ -1,19 +1,19 @@
 {
     "private": false,
     "type": "module",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "name": "node-scope",
-    "description": "",
+    "description": "For working with environmens on NodeJS (optionally with PM2)",
     "author": "geekhunger <hello@geekhunger.com>",
     "license": "MIT",
     "main": "index.js",
-    "homepage": "https://github.com/geekhunger/node-scope.git",
+    "homepage": "https://github.com/geekhunger/node-scope",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/geekhunger/node-scope.git"
+        "url": "https://github.com/geekhunger/node-scope.git"
     },
     "bugs": {
-        "url": "https://github.com/geekhunger/node-scope.git/issues"
+        "url": "https://github.com/geekhunger/node-scope/issues"
     },
     "keywords": [
         "environment",
@@ -21,9 +21,8 @@
         "node env",
         "nodejs",
         "scope",
-        "pm2",
-        "production",
-        "development"
+        "realm",
+        "pm2"
     ],
     "dependencies": {
         "mime": "^3.0.0",
