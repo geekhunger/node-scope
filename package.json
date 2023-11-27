@@ -1,7 +1,7 @@
 {
     "private": false,
     "type": "module",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "name": "node-scope",
     "description": "For working with environmens on NodeJS (optionally with PM2)",
     "author": "geekhunger <hello@geekhunger.com>",
