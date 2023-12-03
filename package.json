@@ -1,7 +1,7 @@
 {
     "private": false,
     "type": "module",
-    "version": "2.1.0",
+    "version": "2.1.1",
     "name": "nodejs-scope",
     "description": "For working with environmens on NodeJS (optionally with PM2)",
     "author": "geekhunger <hello@geekhunger.com>",
@@ -26,7 +26,7 @@
         "pm2"
     ],
     "dependencies": {
-        "mime": "^3.0.0",
+        "mime": "^4.0.0",
         "type-approve": "^3.1.0"
     }
 }
